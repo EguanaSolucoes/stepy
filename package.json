@@ -1,0 +1,19 @@
+{
+  "name": "stepy",
+  "version": "1.0.0",
+  "description": "jQuery Stepy is a plugin based on FormToWizard that generates a customizable wizard.",
+  "main": "lib/jquery.stepy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EguanaSolucoes/stepy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EguanaSolucoes/stepy/issues"
+  },
+  "homepage": "https://github.com/EguanaSolucoes/stepy#readme"
+}
